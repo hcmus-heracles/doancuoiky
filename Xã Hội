@@ -1,0 +1,65 @@
+I.	Xã hội:
+Nguồn tham khảo: 
+[1]: http://www.rockford.edu/media/rockfordedu/departments/campusandcommunity/centerfornonprofitexcellence/docs/IDEALWARE_CMS_2014MARCH25.pdf
+[2]: http://en.wikipedia.org/wiki/WordPress
+[3]: http://inside.envato.com/the-future-of-wordpress/
+
+
+1.	Tổ chức cộng đồng như thế nào, gồm những loại thành viên nào? Mỗi loại thành viên có quyền hạn và trách nhiệm gì, tham gia những hoạt động gì?
+•	Cộng đồng về công nghệ CMS (Content Management System) là một cộng đồng cực kì lớn, có rất nhiều người dùng, có một mạng lưới các đối tác, các nhà cung cấp và các nhà phát triển rất mạng mạnh mẽ,  với hàng triệu website trên thế giới  được xây dựng dựa trên công nghệ CMS.
+
+-	Cộng đồng nguồn mở dựa trên CMS thật sự rất lớn. Tuy nhiên, về phía PHP ta tập trung vào một CMS nguồn mở nổi tiếng nhất là Wordpress, nó dựa trên nền tảng PHP và cơ sở dữ liệu MySQL, thường được sử dụng như một trang blog, và nó là một trong những ứng dụng blog phổ biến nhất hiện nay. Với hơn 60 triệu website sử dụng.
+
+-	Theo số liệu thống kê 1/2015, Wordpress chiếm hơn 23,3% người sử dụng trong hơn 10 triệu website nỗi tiếng trên thế giới.
+
+•	Wordpress được xây dựng bởi những nhà phát triển chính là Helen Hou-Sandí, Dion Hulse, Mark Jaquith, Matt Mullenweg, Andrew Ozz, và Andrew Nacin.
+
+-	Tuy nhiên wordpress cũng được phát triển bởi cộng đồng sử dụng, bao gồm WP Testers, họ là những người tình nguyện sử dụng thử và kiểm tra mỗi khi có bản mới phát hành – họ là những người đóng góp thầm lặng cho sự thành công của WP.
+
+-	Ngoài ra, WP cũng phải tiếp tục phát triển và hổ trợ cho hệ thống mà họ đã phát hành cho người dùng. Hầu hết những phần mềm nguồn mở thường được hổ trợ bởi cộng đồng những người dùng và các lập trình viên. Chất lượng của một cộng đồng dựa trên mức độ năng động của cộng đồng đó bằng việc phát triển nhiều phiên bản mới hơn, có nhiều bản cập nhật vá lỗi hơn. Còn về riêng bạn, bạn có thể tự mở rộng hệ thống. Với một hệ thống mã nguồn mở, bạn có thể thay đổi mã nguồn theo cách bạn muốn. Tuy nhiên cũng nên cẩn thận, bạn có thể chỉ phải trả một khoản tiền nho nhỏ cho một giấy phép của phần mềm, nhưng bạn sẽ phải tốn rất nhiều thời gian để cài đặt, bảo trì hệ thống của bạn, hoặc thuê ai đó làm điều đó cho bạn.
+
+2.	Những định hướng vĩ mô, kế hoạch, quyết định được thực hiện như thế nào?
+•	Giao diện thân thiện hơn với người dùng:
+-	Gần đây, sau nhiều phản hồi từ cộng đồng, WP đã cả tiến công nghệ của họ để ngày càng thân thiện hơn với người dùng.
+-	WP đã cho phép gắn thêm các plugin vào.
+-	Với việc ngày càng cải tiến, các WP muốn chinh phục được các khái niệm về đẹp và đơn giản trong thiết kế website.
+•	Khả năng tương thích ngược:
+-	“Khả năng tương thích ngược là sức mạnh lớn nhất của WP, và cũng chính là rắc rối lớn nhất của nó.” – Matt Mullenweg (CEO & Founder của Automatic)
+-	Đội ngũ phát triển của WP đã rất do dự khi quyết định tạo nên một sự thay đổi rất lớn cho WP bởi vì khả năng tương thích ngược của nền tảng phụ thuộc rất nhiều vào sức mạnh của phần nền tảng bên trong.
+-	Nhưng sau đó đội ngủ phát triển của WP đã rất tự tin xây dựng các Plugins, themes và extensions cho WP vì họ biết rằng trong tương lai thì nền tảng sẽ không phát vỡ các đoạn mã mà họ đã xây dựng. Người dùng sẽ cập nhật WP một cách tự tin vì họ biết rằng trong hầu hết các trường hợp thì thì các themes và plugins của họ sẽ làm việc như trước mà không xảy ra vấn đề gì. Đây là một trong những yếu tố góp phần tạo nên sự thành công và thịnh vượng của WP.
+-	Tất cả các dấu hiệu từ Matt Mullenweg đều cho thấy rằng WP sẽ tiếp tục duy trì và đặt tính tương thích ngược lên trên tất cả.
+•	Phát triển theo hướng đa nền tảng:
+-	WP có nguồn gốc như là một nền tảng Blog. Ngày nay nó có thể thực hiện một công việc vớ hai loại khác nhau – vừa là một công cụ cho Blog vừa là một công cụ cho website. Nó đang được sử dụng cho các blogs, các websites, các trang web thương mại điện tử, tạp chí, ứng dụng di động, … và nhiều hơn nữa.
+-	Trong thực tế, WP có thể được sử dụng cho mọi loại ứng dụng và trang web. Mặc dù nó vẫn chủ yếu được biết đến như là một nền tảng để viết blog, nhưng nó đang dần trở thành một nền tảng ứng dụng tổng quát. Với sự trợ giúp của các plugin, extension, theme thì nó có thể trở thành bất cứ thứ gì mà người dùng cần.
+•	Tập trung phát triển plugin:
+-	Theo như Matt Mullenweg, phải phát triển các tính năng mới như là các plugin cho đến khi chúng thật sự hoàn hảo để có thể tích hợp vào WP.
+-	Việc phát trển các plugin là để cho phép có thể dễ dàng làm những việc hơn là làm trực tiếp chúng.
+-	Một trong những plugin đáng nói đến là Velicity Page, một công cụ tạo một trang front-end mạnh mẽ. 
+-	Theo như ý kiến từ đội ngũ phát triển WP và những cá nhân có đóng góp lớn cho cộng đồng này đã nói rằng việc thiết kế nội dung và một công cụ chỉnh sửa front-end sẽ là một phần trong những các phiên bản tương lai sẽ phát hành của WP.
+•	Javascrip
+-	Gần đây, Matt Mullenweg đã nói rằng việc tăng cường phát triển WP là một ưu tiên hàng đầu. với các đối thủ như Wix, Weebly, Squarespace, Ghost thì Javascrip giúp hổ trợ rất tốt giao diện người dùng. Ngoài ra các công cụ Javascrip sẽ cho phép ngwoif dùng kết nối và biên tập frond-end mà không cần đến các đoạn code.
+-	Mark Jaquith cũng đã xác nhận rằng Javascrip là một trong những ưu tiên hằng đầu của đội ngủ phát triển.
+-	Sử dụng những người có kĩ năng tốt về JavaScript góp phần mạnh mẽ vào sự thành công của dự án, chúng sẽ giúp việc chỉnh sửa về front-end. Và trong thực tế thì toàn bộ giao diện quản trị của WP đã được thực hiện rất thông minh và thích hợp với nhiều ứng dụng.
+•	Hướng đến các doanh nghiệp:
+-	“Tôi muốn nhìn thấy WP xuất hiện nhiều hơn tại các tổ chức và trong chính phủ. Lý do chính mà nó không được sử dụng nhieuf trong những tổ chức đó là vì có rrast ít cơ quan đấu thầu cho việc sử dụng WP” – Stephen Cronin ( Đứng đầu đội ngũ chất lượng của ThemeForest & CodeCanyon).
+-	WP được sử dụng nhiều cho các dự án doanh nghiệp bởi vì nó dễ làm, miễn phí và nó có thể làm những điều tuyệt vời nhất có thể.
+-	Những Plugin mạnh mẽ sẽ làm tăng sức hấp dấn của WP với thị trường các doanh nghiệp. Nhưng sự tồn tại của nó trong môi trường này rất dễ bị thất bại, bởi hầu hết mọi người bên ngoài cộng đồng WP đều nghĩ đến WP như là một nền tảng Blog. Các doanh nghiệp nghĩ là họ cần nhiều hơn thế.
+-	Nhưng nhờ tên tuổi của các plugin như WooCommere và BuddyPress mà các doanh nghiệp đã biết đến và nhận thấy WP có thể tùy chỉnh để phù hợp với nhu cầu doanh nghiệp của họ.
+-	“Không có lí do gì để không chọn WP khi chỉ cần một plugin để giải quyến mọi vấn đề” – Muhammad Haris (ThemeFusion)
+•	Thu hút các lập trình viên:
+-	WP đang tìm kiếm những tài năng về JavaScript để ủng hộ cho dự án của họ, nhưng những nhà lãnh đảo trong cộng đồng WP như Jake Goldman(Chủ tịch và là nhà sáng lập của 10up) đã nói rằng rất khó để thu hút được những tài năng lập trình từ bên ngoài cộng đồng WP. Ông đã nói rằng ông tin rằng trong cộng đồng lập trình rộng lớn này thì WP “không phải là một nền tảng thú vị”, và nhận thức này đã làm cho công ty của ông rất khó phát triển.
+-	Đối với những người sẳn sàng bỏ qua những ý kiến phổ biến trong cộng đồng lập trình, Tom Willmot đã nói rằng WP mang đến cho những lập trình viên những cơ hội khó tin, và những điều rất ý nghĩa từ cộng đồng.
+-	“Một câu hỏi mà tôi thỉnh thoảng được hỏi( đặc biệt là từ các lập trình viên bên ngoài cộng đồng WP) là: “Tại sao ông làm việc cho WP”. Và câu trả lời trung thực nhất mà tôi nghĩ ra là: “WP (và những mã nguồn mở khác được xây dựng dựa trên nó) thật sự là nơi thú vị nhất mà tôi có thể làm việc”. – Tom Willmot( CEO & Co-founder của Human Made)
+-	Với những suy nghĩ như vậy, đã có hàng triệu trang web được xây dựng trên WP và hàng trăm ngàn lập trình viên xây dựng chúng; hàng ngàn nguồi tham dự WorldCamps mỗi năm để chia sẽ những câu chuyện vè kinh nghiệm; số lượng các công ty và chính phủ các nước trên thế giới đang dần chuyển sang nguồn mở rất lớn;hàng nghìn người có thể kiếm sống từ công việc làm cho WP.
+•	Một số kế hoạch cho tương lai của WP:
+-	Trong tương lai WP sẽ:
+o	Tiếp tục duy trì khả năng tương thích ngược mạnh mẽ.
+o	Cả thiện và tránh lặp lại những thay đổi sâu rộng
+o	Tiếp tục thử nghiệm các tính năng mới quan trọng như plugins.
+o	Cải tiến các tính năng của JavaScript cho các admin.
+o	Chỉnh sửa tốt hơn ở front-end và thiết kế nội dung.
+o	Dễ dùng hơn cho những người mới sử dụng.
+o	Thay đổi nhận thức rằng nó chỉ là một nền tảng blog.
+o	Xâm nhập sâu hơn vào thị trường doanh nghiệp.
+o	Cung cấp nhiều tiện ích hơn, như là một framework ứng dụng,
+o	Tiếp tục nỗi trội như là một nền tảng blog.
